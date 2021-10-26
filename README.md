@@ -22,3 +22,10 @@ a user interface that includes graphical elements, such as windows, icons, and b
 	a programmer hides all but the relevant data about an object in order to reduce 
 	complexity and increase efficiency.
 	
+vocabulary word: 2
+1. operater
+	An operator is a character, or characters, that determine what action is to be performed or considered.
+2. logical operaters
+	a programming-language symbol that denotes a logical operation.
+3. aritheatic
+	An operator that performs arithmetic operations on groups and numbers.
