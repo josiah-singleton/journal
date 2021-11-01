@@ -29,3 +29,14 @@ vocabulary word: 2
 	a programming-language symbol that denotes a logical operation.
 3. aritheatic
 	An operator that performs arithmetic operations on groups and numbers.
+vocabulary words: 3
+1. iterative programming
+	used to describe a situation in which a sequence of instructions can be executed multiple times.
+2. looping 
+	a programming structure that repeats a sequence of instructions until a specific condition is met.
+3. while loops 
+	number of iterations to be done is already known
+4. for loops
+	used to repeat a specific block of code a known number of times.
+5. indexs 
+	a numerical representation of an item's position in a sequence.
